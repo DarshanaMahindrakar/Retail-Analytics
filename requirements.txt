@@ -1,3 +1,9 @@
 ﻿streamlit
 requests
 psycopg2
+statsmodels
+pickle
+pandas
+numpy
+seaborn
+matplotlib
