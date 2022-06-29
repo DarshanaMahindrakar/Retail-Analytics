@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run price_optimization_app.py
