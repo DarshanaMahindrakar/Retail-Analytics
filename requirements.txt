@@ -1,6 +1,6 @@
 ﻿streamlit
 requests
-psycopg2-binary
+psycopg2-binary==2.9.3
 statsmodels
 pandas
 numpy
